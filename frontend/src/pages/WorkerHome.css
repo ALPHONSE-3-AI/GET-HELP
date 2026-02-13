@@ -1,0 +1,82 @@
+.workerhome-container {
+  height: 100vh;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  padding: 40px;
+  font-family: 'Segoe UI', sans-serif;
+  color: white;
+}
+
+/* Top Bar */
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.welcome-text {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Diamond Button */
+.diamond-btn {
+  width: 90px;
+  height: 90px;
+  background: linear-gradient(135deg, #00c6ff, #0072ff);
+  transform: rotate(45deg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: 0.3s;
+  box-shadow: 0 10px 30px rgba(0,114,255,0.6);
+}
+
+.diamond-btn span {
+  transform: rotate(-45deg);
+  font-weight: bold;
+  font-size: 14px;
+  color: white;
+}
+
+.diamond-btn:hover {
+  transform: rotate(45deg) scale(1.1);
+}
+
+/* Details Card */
+.details-card {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 30px;
+  border-radius: 15px;
+  width: 400px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+}
+
+.details-card h3 {
+  margin-bottom: 20px;
+  color: #00c6ff;
+}
+
+.details-card p {
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+/* Logout Button */
+.logout-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border-radius: 6px;
+  border: none;
+  background: #ff4b5c;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.logout-btn:hover {
+  background: #d93a49;
+}
