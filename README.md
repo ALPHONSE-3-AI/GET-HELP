@@ -107,7 +107,7 @@ System Architecture:
 Architecture Diagram Explain your system architecture - components, data flow, tech stack interaction
 
 
-
+"C:\Users\saran\Downloads\ChatGPT Image Feb 14, 2026, 08_06_39 AM.png"
 
 
 Build Photos
