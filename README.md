@@ -1,27 +1,44 @@
 <img width="1280" height="640" alt="img" src="https://github.com/user-attachments/assets/be64023d-8916-4be3-8172-2d55ed04768c" />
 GETHELP 🎯
+
 Basic Details
-Team Name: [HASH]
+
+Team Name: HASH
+
 Team Members
-Member 1: [SARA NISAM] - [RIT]
-Member 2: [ALPHONSE MARIA MARTIN] - [RIT]
-Hosted Project Link
-[mention your project hosted link here]
+
+Sara Nisam – RIT
+
+Alphonse Maria Martin – RIT
+
+Hosted Project Link:
+Add your deployed project URL here
 
 Project Description
-I have worked on a locality-based service web app that connects users with nearby workers like plumbers and electricians, where users can quickly find and contact verified local helpers. A unique feature was a real-time online/offline toggle button for workers, allowing customers to instantly see who is available also to loacte on map. The project focused on simplicity, locality filtering, and fast access to trusted services, making it especially useful for remote or neighborhood communities.
 
-The Problem statement
-In many local and semi-urban communities, people struggle to quickly find reliable nearby service workers such as plumbers, electricians, or carpenters. Existing platforms are often overcrowded, city-focused, or lack real-time availability, making it difficult to access trustworthy help during urgent situations.
+GETHELP is a locality-based service web application that connects users with nearby workers such as plumbers, electricians, and carpenters. Users can quickly search, view, and contact verified local helpers within their neighborhood.
+A unique highlight of the platform is the real-time Online/Offline availability toggle for workers along with an interactive map view, enabling customers to instantly see who is available and where they are located. The system focuses on simplicity, speed, and locality filtering, making it especially useful for remote and community-level users.
 
-The Solution
-We are developing a locality-based service web application that connects users with verified workers in their neighborhood through locality filters, real-time online/offline availability toggle, and an integrated map view to locate nearby workers instantly. This ensures fast, simple, and dependable access to essential services, especially for remote and community-level users.
+Problem Statement
+
+In many local and semi-urban communities, people struggle to quickly find reliable nearby service workers. Existing platforms are often overcrowded, city-centric, or lack real-time availability, which makes accessing trustworthy help during urgent situations difficult and time-consuming.
+
+Proposed Solution
+
+We are building a locality-based service web application that directly connects users with verified workers in their neighborhood.
+Key solution elements include:
+
+Locality Filters for accurate nearby results
+
+Real-Time Online/Offline Toggle for worker availability
+
+Integrated Map View to visually locate workers instantly
+
+This ensures fast, simple, and dependable access to essential services, particularly for remote and community-level users.
 
 Technical Details
-Technologies/Components Used
-For Software:
-
-Languages Used:
+Technologies / Components Used
+Languages Used
 
 TypeScript (TSX)
 
@@ -29,53 +46,52 @@ JavaScript (JSX)
 
 CSS
 
-Frameworks / Runtime Used:
+Frameworks / Runtime
 
-Node.js (backend runtime)
+React – Frontend Framework (TSX / JSX)
 
-React (TSX/JSX based frontend framework)
+Node.js – Backend Runtime
 
-Libraries Used:
+Libraries
 
-Supabase Client Library (authentication, database, API calls)
+Supabase Client Library – Authentication, Database Access, API Handling
 
-Tools Used:
+Tools
 
-Supabase (Database, Authentication, Backend services)
+Supabase – Backend as a Service (Database, Auth, Storage)
 
-Visual Studio Code (VS Code) – Code editing and project development
+Visual Studio Code (VS Code) – Development Environment
 
-Git 
+Git – Version Control
+
 Features
-Key Features of the Project
+Key Features of GETHELP
 
-Feature 1: Locality-Based Search
-Users can find nearby service workers (plumbers, electricians, etc.) by selecting or entering their locality, making results more relevant and faster.
+1. Locality-Based Search
+Users can find nearby workers by entering or selecting their locality, ensuring faster and more relevant results.
 
-Feature 2: Real-Time Availability Toggle
-Workers can switch an Online / Offline toggle, allowing users to instantly see who is currently available for work.
+2. Real-Time Availability Toggle
+Workers can switch an Online / Offline button so customers instantly know who is available.
 
-Feature 3: Integrated Map View
-A built-in map helps users visually locate nearby workers and choose the closest or most convenient option.
+3. Integrated Map View
+A visual map interface helps users locate workers based on proximity and convenience.
 
-Feature 4: Secure User & Worker Registration
-Separate registration and login for users and workers with Supabase authentication and database storage.
+4. Secure User & Worker Registration
+Separate login and signup flows with Supabase Authentication and Database Security.
 
 Implementation
 For Software
 Installation
 npm install
 
-Run
+Run (Development Mode)
 npm run dev
 
-
-(If using standard Node start instead of dev)
-
+Run (Standard Node Start)
 npm start
 
 
-
+GETHELP – Connecting Communities with Trusted Local Services, Instantly. 🚀
 Project Documentation
 For Software:
 Screenshots 
@@ -116,28 +132,53 @@ Video
 
 
 
+Tools Used
 
+Gemini, ChatGPT
 
-Tool Used: [Gemini,ChatGPT]
+Purpose
 
-Purpose:
+ChatGPT and Gemini were used for:
 
-ChatGPT and Gemini was used for  code assistance, debugging support, and content creation
+Code assistance and logic building
+
+Debugging support
+
+Documentation and content creation
+
+UI/UX ideas and feature brainstorming
 
 Team Contributions
-[alphonse maria martin]: [Frontend development, API integration]
-[sara nisam]: [Backend development, Database design]
+
+Alphonse Maria Martin
+
+Frontend Development
+
+API Integration
+
+UI Components & Styling
+
+Sara Nisam
+
+Backend Development
+
+Database Design
+
+Supabase Configuration & Authentication
 
 License
-This project is licensed under the [LICENSE_NAME] License - see the LICENSE file for details.
 
-Common License Options:
+This project is licensed under the MIT License – see the LICENSE file for details.
 
-MIT License (Permissive, widely used)
-Apache 2.0 (Permissive with patent grant)
-GPL v3 (Copyleft, requires derivative works to be open source)
-Made with ❤️ at TinkerHub
+Common License Options
 
-appukurian Kuriyaappi
+MIT License – Permissive and widely used
+
+Apache 2.0 – Permissive with patent protection
+
+GPL v3 – Copyleft, requires derivative works to remain open-source
+
+Made with ❤️ at TinkerHub 🚀
+
 Footer
 © 2026 G
